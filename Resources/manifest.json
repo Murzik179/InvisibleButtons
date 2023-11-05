@@ -1,0 +1,22 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Invisible Buttons",
+    "description": "Invisible Buttons — this is resource pack, that make control bottons invisible.",
+    "uuid": "89afa5de-3f6b-435a-abb9-79600fd37c86",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 19, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "82da70e3-a5f2-472b-8e61-d343b5207f7b",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    "authors": ["Murzik179"],
+    "license": "GPL-3.0",
+    "url": "https://github.com/Murzik179/InvisibleButtons"
+  }
+}
